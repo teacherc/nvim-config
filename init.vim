@@ -83,4 +83,4 @@ let g:airline_symbols.linenr = ''
 " airline theme
 " let g:airline_theme='wombat'
 
-i
+
